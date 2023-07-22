@@ -1,3 +1,5 @@
+![image](https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/assets/44790000/a65afc76-8761-49aa-8414-b3ad07a9c5f9)
+
 # O CAD SIMU
 
 O CAD SIMU é um software de CAD (Computer-Aided Design) projetado especificamente para simulação de circuitos elétricos industriais. Ele é amplamente utilizado por engenheiros e técnicos na área elétrica para projetar e analisar circuitos elétricos complexos de forma precisa e eficiente.
@@ -8,5 +10,32 @@ A principal característica do CAD SIMU é sua capacidade de simulação. Os usu
 
 O software também oferece recursos avançados de análise, como medição de tensão, corrente e potência em cada ponto do circuito, permitindo uma avaliação detalhada do desempenho elétrico. Além disso, o CAD SIMU suporta a simulação de sistemas trifásicos, fundamentais para aplicações industriais complexas.
 
-Segue neste repositório um conjunto de diagramas de comandos e de carga industriais utilizado no Curso Técnico de Eletrotécnica.
+# Diagramas de comando e de carga de acionamento de motores elétricos industriais utilizado no Curso Técnico de Eletrotécnica.
+
+* Compensadora
+* Dahlander_Baixa_Alta_Automático
+* Estrela_Triângulo
+* Freio_Contra_Corrente
+* Inversor_CFW08
+* Partida_4_Motores
+* Partida_Aceleração_Rotórica_Botoeira.cad.cad
+* Partida_Aceleração_Rotórica.
+* Partida_Compensadora_Reversão
+* Partida_D_dd
+* Partida_Dahlander
+* Partida_direta
+* Partida_Direta_Fusível
+* Partida_e_Reversão
+* Partida_Motor_CC
+* Partida_Rotórica
+* Partida_Sem_Proteção
+* Partida_Sequencial
+* Partida_Sequencial_Fusivel
+* Partida_Suave_3_Motor
+* Partida_Suave_SSW05
+* Partida_Suave_SSW05_2
+* Partida_YD_Reversão
+* Reversão_D_dd
+* Reversão_Dahlander
+* Reversão_Dois_Bobinados
 
