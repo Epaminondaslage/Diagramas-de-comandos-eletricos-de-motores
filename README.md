@@ -1,4 +1,6 @@
-# Diagramas-de-comandos-eletricos-de-motores
+# Diagramas de comandos elétricos de motores
+
+
 Segue neste repositório um conjunto de diagramas de comandos e de carga industriais utilizado no Curso Técnico de Eletrotécnica.
 
 Estes diagramas foram feitos utilizando o software CAD SIMU. Ele é um software de simulação e projeto de circuitos elétricos amplamente utilizado na indústria e no campo da engenharia elétrica. Ele é uma ferramenta de CAD (Computer-Aided Design) que permite aos usuários criar e simular circuitos elétricos de maneira eficiente e precisa.
