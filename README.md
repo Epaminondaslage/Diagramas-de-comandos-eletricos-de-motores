@@ -1,12 +1,12 @@
-# Diagramas de comandos elétricos de motores
+# O CAD SIMU
 
+O CAD SIMU é um software de CAD (Computer-Aided Design) projetado especificamente para simulação de circuitos elétricos industriais. Ele é amplamente utilizado por engenheiros e técnicos na área elétrica para projetar e analisar circuitos elétricos complexos de forma precisa e eficiente.
+
+Com o CAD SIMU, os usuários têm acesso a uma ampla biblioteca de componentes elétricos, incluindo interruptores, relés, contatores, transformadores, motores e outros dispositivos industriais. Esses componentes podem ser facilmente arrastados e conectados na interface gráfica do software, permitindo a criação rápida e intuitiva de esquemas elétricos.
+
+A principal característica do CAD SIMU é sua capacidade de simulação. Os usuários podem testar virtualmente o funcionamento dos circuitos desenhados, avaliando o comportamento dos dispositivos e o fluxo de corrente em diferentes cenários de operação. A simulação permite a identificação antecipada de possíveis problemas e a otimização do projeto antes da implementação prática, economizando tempo e evitando custos desnecessários.
+
+O software também oferece recursos avançados de análise, como medição de tensão, corrente e potência em cada ponto do circuito, permitindo uma avaliação detalhada do desempenho elétrico. Além disso, o CAD SIMU suporta a simulação de sistemas trifásicos, fundamentais para aplicações industriais complexas.
 
 Segue neste repositório um conjunto de diagramas de comandos e de carga industriais utilizado no Curso Técnico de Eletrotécnica.
 
-Estes diagramas foram feitos utilizando o software CAD SIMU. Ele é um software de simulação e projeto de circuitos elétricos amplamente utilizado na indústria e no campo da engenharia elétrica. Ele é uma ferramenta de CAD (Computer-Aided Design) que permite aos usuários criar e simular circuitos elétricos de maneira eficiente e precisa.
-
-Com o CAD SIMU, os usuários podem criar esquemas elétricos detalhados, com componentes como interruptores, relés, motores, lâmpadas e outros dispositivos elétricos. O software oferece uma biblioteca extensa de símbolos elétricos comumente usados, facilitando o processo de construção do circuito.
-
-Uma das principais funcionalidades do CAD SIMU é a capacidade de simular o comportamento do circuito em tempo real. Os usuários podem realizar análises de tensão, corrente, potência e outros parâmetros elétricos para garantir o funcionamento correto do circuito. Isso ajuda a identificar possíveis problemas, testar diferentes configurações e tomar decisões informadas antes da implementação física do circuito.
-
-Além da simulação, o CAD SIMU também permite a criação de diagramas de comando e controle, permitindo que os usuários projetem e visualizem a lógica de controle do circuito. Isso é especialmente útil para sistemas elétricos mais complexos, como painéis de controle industriais.
