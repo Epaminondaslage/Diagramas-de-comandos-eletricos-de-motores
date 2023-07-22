@@ -1,4 +1,7 @@
-![image](https://github.com/Epaminondaslage/Diagramas-de-comandos-eletricos-de-motores/assets/44790000/a65afc76-8761-49aa-8414-b3ad07a9c5f9)
+<img src="https://github.com/Epaminondaslage/OpenPLC/blob/master/img/Logo_CEFET-MG.png" width="20%">
+Repositório: Diagramas de Comandos Elétricos</p>
+Prof Epaminondas Lage</p>
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> </p>
 
 # O CAD SIMU
 
