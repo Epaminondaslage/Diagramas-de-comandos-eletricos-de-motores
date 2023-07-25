@@ -1,4 +1,4 @@
-<img src="/img/top_cadesimu.png" width="100%">
+<img src="/img/top_cade_simu.png" width="100%">
 
 # Disciplina Laboratório de Acionamentos Elétricos 
 
