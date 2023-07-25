@@ -1,4 +1,4 @@
-<img src="/img/top_cadsimu.png" width="100%">
+<img src="/img/top_cadesimu.png" width="100%">
 
 # Disciplina Laboratório de Acionamentos Elétricos 
 
@@ -18,24 +18,24 @@ A disciplina "Laboratório de Acionamentos Elétricos" no CEFET-MG  é uma maté
 
 Aula Expositiva. Realização de montagens práticas. Simulações em computador. Trabalhos em grupo.
 
-# Simulação de diagramas de controle elétricos- CADSimu
+# Simulação de diagramas de controle elétricos- CADeSimu
 
-O CADSIMU é um software de simulação e projeto de comandos elétricos amplamente utilizado na área de elétrica e automação industrial. Ele permite aos engenheiros e técnicos criar e simular circuitos de controle elétrico antes de implementá-los em sistemas reais. O CADSIMU é particularmente útil para testar e validar projetos de comandos elétricos, evitando possíveis erros e falhas no mundo real.
+O CADeSIMU é um software de simulação e projeto de comandos elétricos amplamente utilizado na área de elétrica e automação industrial. Ele permite aos engenheiros e técnicos criar e simular circuitos de controle elétrico antes de implementá-los em sistemas reais. O CADSIMU é particularmente útil para testar e validar projetos de comandos elétricos, evitando possíveis erros e falhas no mundo real.
 
-Com o CAD SIMU, os usuários têm acesso a uma ampla biblioteca de componentes elétricos, incluindo interruptores, relés, contatores, transformadores, motores e outros dispositivos industriais. Esses componentes podem ser facilmente arrastados e conectados na interface gráfica do software, permitindo a criação rápida e intuitiva de esquemas elétricos.
+Com o CADeSIMU, os usuários têm acesso a uma ampla biblioteca de componentes elétricos, incluindo interruptores, relés, contatores, transformadores, motores e outros dispositivos industriais. Esses componentes podem ser facilmente arrastados e conectados na interface gráfica do software, permitindo a criação rápida e intuitiva de esquemas elétricos.
 
-O software também oferece recursos avançados de análise, como medição de tensão, corrente e potência em cada ponto do circuito, permitindo uma avaliação detalhada do desempenho elétrico. Além disso, o CAD SIMU suporta a simulação de sistemas trifásicos, úteis para aplicações industriais.
+O software também oferece recursos avançados de análise, como medição de tensão, corrente e potência em cada ponto do circuito, permitindo uma avaliação detalhada do desempenho elétrico. Além disso, o CADeSIMU suporta a simulação de sistemas trifásicos, úteis para aplicações industriais.
 
 ## Algumas das principais características e usos do CADSIMU na simulação de comandos elétricos incluem:
 
-* Criação de Diagramas de Controle: O CADSIMU oferece uma interface gráfica intuitiva que permite aos usuários criar diagramas de comandos elétricos usando símbolos padrão, como contatos, bobinas, relés, temporizadores e outros dispositivos elétricos.
+* Criação de Diagramas de Controle: O CADeSIMU oferece uma interface gráfica intuitiva que permite aos usuários criar diagramas de comandos elétricos usando símbolos padrão, como contatos, bobinas, relés, temporizadores e outros dispositivos elétricos.
 * Simulação em Tempo Real: O software permite simular o funcionamento do circuito de controle em tempo real, possibilitando a visualização e análise do comportamento do sistema durante a execução da simulação.
-* Depuração e Análise: O CADSIMU possibilita identificar possíveis problemas ou erros no projeto, permitindo que os engenheiros realizem depurações e ajustes para garantir o correto funcionamento do sistema de controle.
-* Teste de Cenários: Com o CADSIMU, é possível testar diferentes cenários e condições de operação, o que ajuda a avaliar o comportamento do sistema em várias situações e cenários de falhas.
-* Redução de Custos e Riscos: A simulação de comandos elétricos usando o CADSIMU pode ajudar a reduzir custos e riscos associados à implementação de projetos, pois permite detectar e corrigir erros antes de aplicar os comandos em um ambiente real.
+* Depuração e Análise: O CADeSIMU possibilita identificar possíveis problemas ou erros no projeto, permitindo que os engenheiros realizem depurações e ajustes para garantir o correto funcionamento do sistema de controle.
+* Teste de Cenários: Com o CADeSIMU, é possível testar diferentes cenários e condições de operação, o que ajuda a avaliar o comportamento do sistema em várias situações e cenários de falhas.
+* Redução de Custos e Riscos: A simulação de comandos elétricos usando o CADeSIMU pode ajudar a reduzir custos e riscos associados à implementação de projetos, pois permite detectar e corrigir erros antes de aplicar os comandos em um ambiente real.
 * Documentação e Relatórios: O software permite gerar documentação detalhada e relatórios sobre os projetos de comandos elétricos simulados, facilitando a comunicação entre os membros da equipe e o cliente.
 
-A principal característica do CAD SIMU é sua capacidade de simulação. Os usuários podem testar virtualmente o funcionamento dos circuitos desenhados, avaliando o comportamento dos dispositivos e o fluxo de corrente em diferentes cenários de operação. A simulação permite a identificação antecipada de possíveis problemas e a otimização do projeto antes da implementação prática, economizando tempo e evitando custos desnecessários.
+A principal característica do CADeSIMU é sua capacidade de simulação. Os usuários podem testar virtualmente o funcionamento dos circuitos desenhados, avaliando o comportamento dos dispositivos e o fluxo de corrente em diferentes cenários de operação. A simulação permite a identificação antecipada de possíveis problemas e a otimização do projeto antes da implementação prática, economizando tempo e evitando custos desnecessários.
 
 # Diagramas de comando e de carga de acionamento de motores elétricos industriais utilizado no Curso Técnico de Eletrotécnica.
 
