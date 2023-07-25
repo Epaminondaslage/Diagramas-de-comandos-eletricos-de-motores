@@ -18,7 +18,7 @@ A disciplina "Laboratório de Acionamentos Elétricos" no CEFET-MG  é uma maté
 
 Aula Expositiva. Realização de montagens práticas. Simulações em computador. Trabalhos em grupo.
 
-# Simulação de diagramas de controle elétricos- CADeSimu
+# Simulação de diagramas de controle elétricos- CADeSIMU
 
 O CADeSIMU é um software de simulação e projeto de comandos elétricos amplamente utilizado na área de elétrica e automação industrial. Ele permite aos engenheiros e técnicos criar e simular circuitos de controle elétrico antes de implementá-los em sistemas reais. O CADSIMU é particularmente útil para testar e validar projetos de comandos elétricos, evitando possíveis erros e falhas no mundo real.
 
